@@ -1,0 +1,13 @@
+{
+  "title": "ClientMyAdmin",
+  "name": "clientmyadmin",
+  "version": "0.0.1",
+  "description": "A tool to manage client side storage and permissions on one specific page",
+  "main": "index.js",
+  "author": "Jimmy Wärting",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}

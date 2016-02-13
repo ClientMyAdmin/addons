@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Easaly Manage all client side storage (indexedDb, websql, localstorage, sessionStorage, filesystem & cookies)"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "ClientMyAdmin"
+   }
+}

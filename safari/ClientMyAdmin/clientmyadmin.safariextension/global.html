@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello world</title>
+	<script>
+	function performCommand(evt){
+		if(evt.command === "doTheHello"){
+			alert("hello world")
+		}
+	}
+
+	function validateCommand(evt) {
+		// body...
+	}
+	safari.application.addEventListener("command", performCommand, true)
+	</script>
+</head>
+<body>
+
+</body>
+</html>
